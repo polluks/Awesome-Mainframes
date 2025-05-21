@@ -181,6 +181,9 @@ IBM OS/360 MVT is a non-virtual storage operating system.
 
 ### JCL
 * [Introductory Tutorial on JCL Utilities](http://www.bsp-gmbh.com/turnkey/cookbook/utilmvs.html)
+### Pascal
+* Stanford Pascal
+* Stony Brook Pascal
 ### REXX
 * [BREXX/370](https://github.com/mgrossmann/brexx370) - BREXX/370 is an actively maintained MVS-only port of Vasilis Vlachoudis' awesome rexx implementation. [Mike Grossmann](https://github.com/mgrossmann) and [Peter-Jacob](https://github.com/Peter-Jacob) have fixed several bugs and added many features, including support for VSAM and FSS full-screen interactive panels.
 #### REXX Tutorials / Courses
